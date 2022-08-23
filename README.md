@@ -1,13 +1,11 @@
-# Flutter Interview Pratical Test
+# Flutter Interview Practical Test
 
 ## Getting Started
-Welcome! If you have come this far is because you are special :)
-
-This is a quick flutter test to see what you are capable to achive in a real world scenario.
+This is a quick flutter test to see what you are capable to achieve in a real world scenario.
 
 ## Rules
 
-1. You have a max of 30 minutes to complete this assignment;
+1. You have a max of 45 minutes to complete this assignment;
 2. You can use the internet for research;
 3. If you don't understand an intruction please feel free to ask the interviewer;
 4. The interviewer should not give you hints unless strictly necessary
