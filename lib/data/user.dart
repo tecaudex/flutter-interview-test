@@ -22,8 +22,8 @@ class User {
         User(
           id: usr['id'],
           email: usr['email'],
-          firstName: usr['firstName'],
-          lastName: usr['lastName'],
+          firstName: usr['first_name'],
+          lastName: usr['last_name'],
           role: usr['role'],
           avatar: usr['avatar'],
         ),
@@ -31,4 +31,13 @@ class User {
     }
     return list;
   }
+
+  Map<String, dynamic> toJson() => {
+        "id": id,
+        "email": email,
+        "first_name": firstName,
+        "last_name": lastName,
+        "avatar": avatar,
+        "role": role,
+      };
 }
